@@ -1,0 +1,13 @@
+
+public class B extends A{
+	
+	void display() {
+		
+		int a;
+		
+		super.display();
+		
+		System.out.println("its B");
+	}
+
+}

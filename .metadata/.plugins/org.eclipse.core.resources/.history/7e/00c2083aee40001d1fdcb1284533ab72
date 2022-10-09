@@ -1,0 +1,15 @@
+
+public class OverLoding {
+	
+	void display() {
+		System.out.println("I am Iron Man !!");
+		
+	}
+	
+	void display(int a) {
+		
+		System.out.println("You entered "+a);
+		
+	}
+
+}

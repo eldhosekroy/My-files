@@ -1,0 +1,23 @@
+package forloop;
+
+import java.util.Scanner;
+
+public class For {
+	
+	public static void main(String a[]) {
+		
+		Scanner sc=new Scanner(System.in);
+		System.out.println("Enter a number to find the sum upto that number :");
+		int num=sc.nextInt();
+		int sum=0;
+		
+		for(int i=0;i<num;i++) {
+			
+			sum=sum+i;
+		}
+		
+		System.out.println("Sum of first "+num+" number is "+sum);
+		
+	}
+
+}

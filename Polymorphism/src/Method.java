@@ -1,0 +1,13 @@
+
+public class Method {
+	
+	public static void main(String[] args) {
+		
+		OverLoding over=new OverLoding();
+		
+		over.display();
+		over.display(10);
+		over.display(10,20);
+	}
+
+}

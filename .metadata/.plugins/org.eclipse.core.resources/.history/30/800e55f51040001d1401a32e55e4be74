@@ -1,0 +1,10 @@
+
+public class HelloCons {
+	public static void main(String jh[]) {
+		
+	
+	System.out.println("hello");
+	
+	}
+
+}

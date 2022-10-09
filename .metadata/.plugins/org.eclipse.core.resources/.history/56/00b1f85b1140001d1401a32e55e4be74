@@ -1,0 +1,10 @@
+
+public class HelloCons {
+	public static void main(String jh[]) {
+		
+	
+	Sample s=new Sample();
+	
+	}
+
+}
